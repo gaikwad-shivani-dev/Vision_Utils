@@ -120,11 +120,6 @@ def adjust_contrast(src_path,value):
         print(f"Image Saved")
 
 
-# Define the contrast adjustment value
-contrast_value = 1.0  # Increase contrast by 1.5 (use values less than 1 to reduce contrast)
-
-
-
 
 if __name__=="__main__":
     #color_shift("G:\\Vian\\240428002",20,0.7,0.8)
